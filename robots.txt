@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://healthcaresolutions.page.gd/sitemap.xml
+

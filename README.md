@@ -5,7 +5,7 @@ https://healthcaresolutions.page.gd/
 
 This project implements a **Doctors Appointment Website** that allows patients to book appointments, submit enquiries, and contact the clinic. The website includes **form validation**, **JavaScript enhancements**, and **SEO optimisation** to ensure a smooth and interactive user experience.
 
-Forms are used to collect patient information and appointment details, validated using both HTML5 attributes and JavaScript before submission (W3C, 2023; W3Schools, 2025). AJAX submission improves responsiveness, while interactive elements such as modals, accordions, and dynamic search functionality enhance usability (Freeman and Robson, 2020; Duckett, 2014).
+Forms are used to collect patient information and appointment details, validated using both HTML5 attributes and JavaScript before submission (W3Schools, 2025). AJAX submission improves responsiveness, while interactive elements such as modals, accordions, and dynamic search functionality enhance usability (Freeman and Robson, 2020; Duckett, 2014).
 
 The website also follows best practices in **security**, **performance optimisation**, and **SEO**, including robots.txt, sitemap.xml, alt text for images, and responsive design for mobile devices (Chaffey, 2022; Moz, 2023).
 
